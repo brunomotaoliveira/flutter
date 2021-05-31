@@ -11,15 +11,19 @@ Erro ao rodar `flutter doctor --android-licenses`
 
 `Exception in thread "main" java.lang.NoClassDefFoundError: javax/xml/bind/annotation/XmlSchema`
 
+![](https://github.com/brunomotadev/flutter/blob/main/assets/errorfluterdoctor-android-licenses.jpg)
+
 Solução:
 
 [Instale o Android Studio](https://developer.android.com/news)
 
 Clique em "File" > "Settings" 
 
-
+![](https://github.com/brunomotadev/flutter/blob/main/assets/androidstudio1-file-settings.jpg)
 
 Agora em "System Settings" > "Android SDK" > Agora clique na aba "SDK Tools" > Marque "Android SDK Command-line Tools"> Clique em Apply
+
+![](https://github.com/brunomotadev/flutter/blob/main/assets/androidstudio2-systemSettings-androidSDK-SDKtools.jpg)
 
 Irá fazer o download, depois de instalado é só rodar o comando `flutter doctor --android-licenses` no terminal. E concluir a instalação do flutter.
 
