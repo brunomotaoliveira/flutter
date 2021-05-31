@@ -27,3 +27,4 @@ Agora em "System Settings" > "Android SDK" > Agora clique na aba "SDK Tools" > M
 
 Irá fazer o download, depois de instalado é só rodar o comando `flutter doctor --android-licenses` no terminal. E concluir a instalação do flutter.
 
+Fonte e outras soluções: https://stackoverflow.com/questions/46402772/failed-to-install-android-sdk-java-lang-noclassdeffounderror-javax-xml-bind-a
