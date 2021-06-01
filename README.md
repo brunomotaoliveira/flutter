@@ -10,6 +10,10 @@ Conhecimentos em Flutter
 
 - [Instalando e configurando o Flutter no Windows 10](https://flutter.dev/docs/get-started/install/windows#android-setup)
 
+
+
+![](https://github.com/brunomotadev/flutter/blob/main/assets/erros.jpg)
+
 Erro ao rodar `flutter doctor --android-licenses`
 
 `Exception in thread "main" java.lang.NoClassDefFoundError: javax/xml/bind/annotation/XmlSchema`
